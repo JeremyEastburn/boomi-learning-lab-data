@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<degree_programs>
+    <program>
+        <degree_name>Bachelor of Science in Computer Science</degree_name>
+        <degree_code>BS_CS</degree_code>
+        <required_credits>120</required_credits>
+        <core_courses>
+            <course>CS101-100</course>
+            <course>CS102-100</course>
+            <course>CS220-200</course>
+            <course>CS301-300</course>
+            <course>CS310-300</course>
+            <course>CS401-400</course>
+            <course>MATH101-100</course>
+            <course>MATH201-200</course>
+        </core_courses>
+        <electives_needed>4</electives_needed>
+        <gpa_requirement>2.5</gpa_requirement>
+        <department>Computer Science</department>
+    </program>
+    <program>
+        <degree_name>Bachelor of Business Administration</degree_name>
+        <degree_code>BBA</degree_code>
+        <required_credits>120</required_credits>
+        <core_courses>
+            <course>BUS101-100</course>
+            <course>BUS220-200</course>
+            <course>ECON101-100</course>
+            <course>ECON201-200</course>
+            <course>FIN201-200</course>
+            <course>MKT201-200</course>
+            <course>ACC201-200</course>
+        </core_courses>
+        <electives_needed>5</electives_needed>
+        <gpa_requirement>2.5</gpa_requirement>
+        <department>Business Administration</department>
+    </program>
+    <program>
+        <degree_name>Bachelor of Science in Mechanical Engineering</degree_name>
+        <degree_code>BS_ME</degree_code>
+        <required_credits>128</required_credits>
+        <core_courses>
+            <course>ME201-200</course>
+            <course>ME305-300</course>
+            <course>PHY101-100</course>
+            <course>PHY201-200</course>
+            <course>MATH101-100</course>
+            <course>MATH201-200</course>
+            <course>CHEM101-100</course>
+            <course>CE201-200</course>
+        </core_courses>
+        <electives_needed>3</electives_needed>
+        <gpa_requirement>2.75</gpa_requirement>
+        <department>Mechanical Engineering</department>
+    </program>
+    <program>
+        <degree_name>Bachelor of Arts in Psychology</degree_name>
+        <degree_code>BA_PSY</degree_code>
+        <required_credits>120</required_credits>
+        <core_courses>
+            <course>PSY101-100</course>
+            <course>PSY250-200</course>
+            <course>PSY320-300</course>
+            <course>STAT201-200</course>
+            <course>BIO101-100</course>
+        </core_courses>
+        <electives_needed>6</electives_needed>
+        <gpa_requirement>2.5</gpa_requirement>
+        <department>Psychology</department>
+    </program>
+    <program>
+        <degree_name>Bachelor of Science in Biology</degree_name>
+        <degree_code>BS_BIO</degree_code>
+        <required_credits>124</required_credits>
+        <core_courses>
+            <course>BIO101-100</course>
+            <course>BIO210-200</course>
+            <course>CHEM101-100</course>
+            <course>CHEM201-200</course>
+            <course>PHY101-100</course>
+            <course>MATH101-100</course>
+            <course>STAT201-200</course>
+        </core_courses>
+        <electives_needed>4</electives_needed>
+        <gpa_requirement>2.75</gpa_requirement>
+        <department>Biology</department>
+    </program>
+    <program>
+        <degree_name>Bachelor of Science in Data Science</degree_name>
+        <degree_code>BS_DS</degree_code>
+        <required_credits>120</required_credits>
+        <core_courses>
+            <course>CS101-100</course>
+            <course>CS102-100</course>
+            <course>DS201-200</course>
+            <course>DS301-300</course>
+            <course>MATH101-100</course>
+            <course>MATH201-200</course>
+            <course>STAT201-200</course>
+            <course>STAT301-300</course>
+        </core_courses>
+        <electives_needed>3</electives_needed>
+        <gpa_requirement>2.75</gpa_requirement>
+        <department>Data Science</department>
+    </program>
+    <program>
+        <degree_name>Bachelor of Science in Finance</degree_name>
+        <degree_code>BS_FIN</degree_code>
+        <required_credits>120</required_credits>
+        <core_courses>
+            <course>BUS101-100</course>
+            <course>FIN201-200</course>
+            <course>FIN305-300</course>
+            <course>ECON101-100</course>
+            <course>ECON201-200</course>
+            <course>ACC201-200</course>
+            <course>STAT201-200</course>
+        </core_courses>
+        <electives_needed>4</electives_needed>
+        <gpa_requirement>2.5</gpa_requirement>
+        <department>Finance</department>
+    </program>
+    <program>
+        <degree_name>Bachelor of Arts in English Literature</degree_name>
+        <degree_code>BA_ENG</degree_code>
+        <required_credits>120</required_credits>
+        <core_courses>
+            <course>ENG101-100</course>
+            <course>ENG205-200</course>
+            <course>PHIL101-100</course>
+            <course>HIST101-100</course>
+        </core_courses>
+        <electives_needed>8</electives_needed>
+        <gpa_requirement>2.5</gpa_requirement>
+        <department>English Literature</department>
+    </program>
+    <program>
+        <degree_name>Bachelor of Science in Chemistry</degree_name>
+        <degree_code>BS_CHEM</degree_code>
+        <required_credits>124</required_credits>
+        <core_courses>
+            <course>CHEM101-100</course>
+            <course>CHEM201-200</course>
+            <course>CHEM301-300</course>
+            <course>PHY101-100</course>
+            <course>PHY201-200</course>
+            <course>MATH101-100</course>
+            <course>MATH201-200</course>
+        </core_courses>
+        <electives_needed>3</electives_needed>
+        <gpa_requirement>2.75</gpa_requirement>
+        <department>Chemistry</department>
+    </program>
+    <program>
+        <degree_name>Bachelor of Science in Marketing</degree_name>
+        <degree_code>BS_MKT</degree_code>
+        <required_credits>120</required_credits>
+        <core_courses>
+            <course>BUS101-100</course>
+            <course>MKT201-200</course>
+            <course>MKT310-300</course>
+            <course>PSY101-100</course>
+            <course>COMM101-100</course>
+            <course>STAT201-200</course>
+        </core_courses>
+        <electives_needed>5</electives_needed>
+        <gpa_requirement>2.5</gpa_requirement>
+        <department>Marketing</department>
+    </program>
+</degree_programs>

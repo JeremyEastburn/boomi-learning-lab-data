@@ -1,0 +1,421 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<course_catalog>
+    <course>
+        <course_id>CS101-100</course_id>
+        <title>Introduction to Computer Science</title>
+        <description>Fundamental concepts of programming, algorithms, and computational thinking</description>
+        <department>Computer Science</department>
+        <credits>3</credits>
+        <instructor_id>F001</instructor_id>
+        <schedule>MWF 9:00-9:50</schedule>
+        <max_enrollment>150</max_enrollment>
+        <current_enrollment>142</current_enrollment>
+    </course>
+    <course>
+        <course_id>CS102-100</course_id>
+        <title>Data Structures</title>
+        <description>Arrays, linked lists, stacks, queues, trees, and graphs</description>
+        <department>Computer Science</department>
+        <credits>3</credits>
+        <instructor_id>F006</instructor_id>
+        <schedule>TTH 10:00-11:15</schedule>
+        <max_enrollment>100</max_enrollment>
+        <current_enrollment>95</current_enrollment>
+    </course>
+    <course>
+        <course_id>CS210-200</course_id>
+        <title>Web Development</title>
+        <description>HTML, CSS, JavaScript, and modern web frameworks</description>
+        <department>Computer Science</department>
+        <credits>3</credits>
+        <instructor_id>F027</instructor_id>
+        <schedule>MWF 11:00-11:50</schedule>
+        <max_enrollment>60</max_enrollment>
+        <current_enrollment>58</current_enrollment>
+    </course>
+    <course>
+        <course_id>CS220-200</course_id>
+        <title>Database Systems</title>
+        <description>Relational databases, SQL, normalization, and transaction processing</description>
+        <department>Computer Science</department>
+        <credits>3</credits>
+        <instructor_id>F006</instructor_id>
+        <schedule>TTH 2:00-3:15</schedule>
+        <max_enrollment>80</max_enrollment>
+        <current_enrollment>75</current_enrollment>
+    </course>
+    <course>
+        <course_id>CS301-300</course_id>
+        <title>Operating Systems</title>
+        <description>Process management, memory management, file systems, and security</description>
+        <department>Computer Science</department>
+        <credits>4</credits>
+        <instructor_id>F001</instructor_id>
+        <schedule>MWF 2:00-3:15</schedule>
+        <max_enrollment>50</max_enrollment>
+        <current_enrollment>48</current_enrollment>
+    </course>
+    <course>
+        <course_id>CS310-300</course_id>
+        <title>Software Engineering</title>
+        <description>Software development lifecycle, agile methodologies, and team projects</description>
+        <department>Computer Science</department>
+        <credits>3</credits>
+        <instructor_id>F027</instructor_id>
+        <schedule>TTH 3:30-4:45</schedule>
+        <max_enrollment>40</max_enrollment>
+        <current_enrollment>38</current_enrollment>
+    </course>
+    <course>
+        <course_id>CS350-300</course_id>
+        <title>Machine Learning</title>
+        <description>Supervised and unsupervised learning, neural networks, and deep learning</description>
+        <department>Computer Science</department>
+        <credits>3</credits>
+        <instructor_id>F006</instructor_id>
+        <schedule>MWF 3:30-4:20</schedule>
+        <max_enrollment>35</max_enrollment>
+        <current_enrollment>35</current_enrollment>
+    </course>
+    <course>
+        <course_id>CS401-400</course_id>
+        <title>Senior Capstone Project</title>
+        <description>Year-long project integrating computer science knowledge and skills</description>
+        <department>Computer Science</department>
+        <credits>6</credits>
+        <instructor_id>F001</instructor_id>
+        <schedule>TBD</schedule>
+        <max_enrollment>30</max_enrollment>
+        <current_enrollment>28</current_enrollment>
+    </course>
+    <course>
+        <course_id>BUS101-100</course_id>
+        <title>Introduction to Business</title>
+        <description>Overview of business functions, management, marketing, and finance</description>
+        <department>Business Administration</department>
+        <credits>3</credits>
+        <instructor_id>F002</instructor_id>
+        <schedule>MWF 10:00-10:50</schedule>
+        <max_enrollment>200</max_enrollment>
+        <current_enrollment>195</current_enrollment>
+    </course>
+    <course>
+        <course_id>BUS220-200</course_id>
+        <title>Business Analytics</title>
+        <description>Data-driven decision making and business intelligence tools</description>
+        <department>Business Administration</department>
+        <credits>3</credits>
+        <instructor_id>F002</instructor_id>
+        <schedule>TTH 11:00-12:15</schedule>
+        <max_enrollment>75</max_enrollment>
+        <current_enrollment>72</current_enrollment>
+    </course>
+    <course>
+        <course_id>ME201-200</course_id>
+        <title>Thermodynamics</title>
+        <description>Laws of thermodynamics, heat transfer, and energy systems</description>
+        <department>Mechanical Engineering</department>
+        <credits>4</credits>
+        <instructor_id>F003</instructor_id>
+        <schedule>MWF 8:00-9:15</schedule>
+        <max_enrollment>60</max_enrollment>
+        <current_enrollment>55</current_enrollment>
+    </course>
+    <course>
+        <course_id>ME305-300</course_id>
+        <title>Fluid Mechanics</title>
+        <description>Fluid statics, dynamics, and applications in engineering systems</description>
+        <department>Mechanical Engineering</department>
+        <credits>3</credits>
+        <instructor_id>F003</instructor_id>
+        <schedule>TTH 8:30-9:45</schedule>
+        <max_enrollment>45</max_enrollment>
+        <current_enrollment>42</current_enrollment>
+    </course>
+    <course>
+        <course_id>PSY101-100</course_id>
+        <title>Introduction to Psychology</title>
+        <description>Survey of psychological principles, theories, and research methods</description>
+        <department>Psychology</department>
+        <credits>3</credits>
+        <instructor_id>F004</instructor_id>
+        <schedule>MWF 1:00-1:50</schedule>
+        <max_enrollment>150</max_enrollment>
+        <current_enrollment>148</current_enrollment>
+    </course>
+    <course>
+        <course_id>PSY250-200</course_id>
+        <title>Cognitive Psychology</title>
+        <description>Memory, attention, perception, and problem-solving processes</description>
+        <department>Psychology</department>
+        <credits>3</credits>
+        <instructor_id>F004</instructor_id>
+        <schedule>TTH 1:00-2:15</schedule>
+        <max_enrollment>80</max_enrollment>
+        <current_enrollment>78</current_enrollment>
+    </course>
+    <course>
+        <course_id>PSY320-300</course_id>
+        <title>Abnormal Psychology</title>
+        <description>Mental disorders, diagnosis, and treatment approaches</description>
+        <department>Psychology</department>
+        <credits>3</credits>
+        <instructor_id>F004</instructor_id>
+        <schedule>MWF 4:00-4:50</schedule>
+        <max_enrollment>60</max_enrollment>
+        <current_enrollment>60</current_enrollment>
+    </course>
+    <course>
+        <course_id>BIO101-100</course_id>
+        <title>General Biology I</title>
+        <description>Cell biology, genetics, and molecular biology fundamentals</description>
+        <department>Biology</department>
+        <credits>4</credits>
+        <instructor_id>F005</instructor_id>
+        <schedule>MWF 9:00-9:50 + Lab</schedule>
+        <max_enrollment>120</max_enrollment>
+        <current_enrollment>118</current_enrollment>
+    </course>
+    <course>
+        <course_id>BIO210-200</course_id>
+        <title>Ecology</title>
+        <description>Ecosystems, population dynamics, and environmental interactions</description>
+        <department>Biology</department>
+        <credits>3</credits>
+        <instructor_id>F005</instructor_id>
+        <schedule>TTH 10:00-11:15</schedule>
+        <max_enrollment>70</max_enrollment>
+        <current_enrollment>68</current_enrollment>
+    </course>
+    <course>
+        <course_id>ENG101-100</course_id>
+        <title>Composition and Rhetoric</title>
+        <description>Academic writing, argumentation, and critical analysis</description>
+        <department>English Literature</department>
+        <credits>3</credits>
+        <instructor_id>F007</instructor_id>
+        <schedule>MWF 11:00-11:50</schedule>
+        <max_enrollment>25</max_enrollment>
+        <current_enrollment>24</current_enrollment>
+    </course>
+    <course>
+        <course_id>ENG205-200</course_id>
+        <title>American Literature</title>
+        <description>Survey of American literary works from colonial period to present</description>
+        <department>English Literature</department>
+        <credits>3</credits>
+        <instructor_id>F007</instructor_id>
+        <schedule>TTH 2:30-3:45</schedule>
+        <max_enrollment>35</max_enrollment>
+        <current_enrollment>32</current_enrollment>
+    </course>
+    <course>
+        <course_id>CHEM101-100</course_id>
+        <title>General Chemistry I</title>
+        <description>Atomic structure, chemical bonding, and stoichiometry</description>
+        <department>Chemistry</department>
+        <credits>4</credits>
+        <instructor_id>F008</instructor_id>
+        <schedule>MWF 10:00-10:50 + Lab</schedule>
+        <max_enrollment>100</max_enrollment>
+        <current_enrollment>98</current_enrollment>
+    </course>
+    <course>
+        <course_id>CHEM201-200</course_id>
+        <title>Organic Chemistry I</title>
+        <description>Structure, properties, and reactions of organic compounds</description>
+        <department>Chemistry</department>
+        <credits>4</credits>
+        <instructor_id>F008</instructor_id>
+        <schedule>MWF 8:00-8:50 + Lab</schedule>
+        <max_enrollment>60</max_enrollment>
+        <current_enrollment>58</current_enrollment>
+    </course>
+    <course>
+        <course_id>CHEM301-300</course_id>
+        <title>Physical Chemistry</title>
+        <description>Thermodynamics, kinetics, and quantum mechanics applications</description>
+        <department>Chemistry</department>
+        <credits>3</credits>
+        <instructor_id>F008</instructor_id>
+        <schedule>TTH 11:00-12:15</schedule>
+        <max_enrollment>40</max_enrollment>
+        <current_enrollment>38</current_enrollment>
+    </course>
+    <course>
+        <course_id>MATH101-100</course_id>
+        <title>Calculus I</title>
+        <description>Limits, derivatives, and applications of differentiation</description>
+        <department>Mathematics</department>
+        <credits>4</credits>
+        <instructor_id>F010</instructor_id>
+        <schedule>MTWF 9:00-9:50</schedule>
+        <max_enrollment>80</max_enrollment>
+        <current_enrollment>78</current_enrollment>
+    </course>
+    <course>
+        <course_id>MATH201-200</course_id>
+        <title>Linear Algebra</title>
+        <description>Vector spaces, matrices, and linear transformations</description>
+        <department>Mathematics</department>
+        <credits>3</credits>
+        <instructor_id>F010</instructor_id>
+        <schedule>MWF 2:00-2:50</schedule>
+        <max_enrollment>60</max_enrollment>
+        <current_enrollment>55</current_enrollment>
+    </course>
+    <course>
+        <course_id>MATH301-300</course_id>
+        <title>Real Analysis</title>
+        <description>Rigorous treatment of limits, continuity, and convergence</description>
+        <department>Mathematics</department>
+        <credits>3</credits>
+        <instructor_id>F010</instructor_id>
+        <schedule>TTH 3:00-4:15</schedule>
+        <max_enrollment>30</max_enrollment>
+        <current_enrollment>28</current_enrollment>
+    </course>
+    <course>
+        <course_id>PHY101-100</course_id>
+        <title>Physics I: Mechanics</title>
+        <description>Kinematics, dynamics, energy, and momentum</description>
+        <department>Physics</department>
+        <credits>4</credits>
+        <instructor_id>F011</instructor_id>
+        <schedule>MWF 11:00-11:50 + Lab</schedule>
+        <max_enrollment>90</max_enrollment>
+        <current_enrollment>88</current_enrollment>
+    </course>
+    <course>
+        <course_id>PHY201-200</course_id>
+        <title>Physics II: Electricity and Magnetism</title>
+        <description>Electric fields, circuits, magnetic fields, and electromagnetic waves</description>
+        <department>Physics</department>
+        <credits>4</credits>
+        <instructor_id>F011</instructor_id>
+        <schedule>MWF 1:00-1:50 + Lab</schedule>
+        <max_enrollment>70</max_enrollment>
+        <current_enrollment>68</current_enrollment>
+    </course>
+    <course>
+        <course_id>MKT201-200</course_id>
+        <title>Marketing Fundamentals</title>
+        <description>Marketing mix, consumer behavior, and market research</description>
+        <department>Marketing</department>
+        <credits>3</credits>
+        <instructor_id>F009</instructor_id>
+        <schedule>TTH 9:00-10:15</schedule>
+        <max_enrollment>100</max_enrollment>
+        <current_enrollment>95</current_enrollment>
+    </course>
+    <course>
+        <course_id>MKT310-300</course_id>
+        <title>Digital Marketing</title>
+        <description>Social media, SEO, content marketing, and analytics</description>
+        <department>Marketing</department>
+        <credits>3</credits>
+        <instructor_id>F009</instructor_id>
+        <schedule>MWF 3:00-3:50</schedule>
+        <max_enrollment>50</max_enrollment>
+        <current_enrollment>50</current_enrollment>
+    </course>
+    <course>
+        <course_id>FIN201-200</course_id>
+        <title>Corporate Finance</title>
+        <description>Financial analysis, capital budgeting, and risk management</description>
+        <department>Finance</department>
+        <credits>3</credits>
+        <instructor_id>F015</instructor_id>
+        <schedule>TTH 10:30-11:45</schedule>
+        <max_enrollment>80</max_enrollment>
+        <current_enrollment>78</current_enrollment>
+    </course>
+    <course>
+        <course_id>FIN305-300</course_id>
+        <title>Investment Analysis</title>
+        <description>Portfolio theory, asset valuation, and market efficiency</description>
+        <department>Finance</department>
+        <credits>3</credits>
+        <instructor_id>F015</instructor_id>
+        <schedule>MWF 1:00-1:50</schedule>
+        <max_enrollment>60</max_enrollment>
+        <current_enrollment>58</current_enrollment>
+    </course>
+    <course>
+        <course_id>DS201-200</course_id>
+        <title>Data Mining</title>
+        <description>Pattern recognition, clustering, and predictive modeling</description>
+        <department>Data Science</department>
+        <credits>3</credits>
+        <instructor_id>F013</instructor_id>
+        <schedule>TTH 2:00-3:15</schedule>
+        <max_enrollment>50</max_enrollment>
+        <current_enrollment>48</current_enrollment>
+    </course>
+    <course>
+        <course_id>DS301-300</course_id>
+        <title>Big Data Analytics</title>
+        <description>Hadoop, Spark, and large-scale data processing</description>
+        <department>Data Science</department>
+        <credits>3</credits>
+        <instructor_id>F013</instructor_id>
+        <schedule>MWF 10:00-10:50</schedule>
+        <max_enrollment>40</max_enrollment>
+        <current_enrollment>40</current_enrollment>
+    </course>
+    <course>
+        <course_id>ECON101-100</course_id>
+        <title>Principles of Microeconomics</title>
+        <description>Supply and demand, market structures, and consumer theory</description>
+        <department>Economics</department>
+        <credits>3</credits>
+        <instructor_id>F019</instructor_id>
+        <schedule>MWF 12:00-12:50</schedule>
+        <max_enrollment>120</max_enrollment>
+        <current_enrollment>115</current_enrollment>
+    </course>
+    <course>
+        <course_id>ECON201-200</course_id>
+        <title>Principles of Macroeconomics</title>
+        <description>GDP, inflation, unemployment, and monetary policy</description>
+        <department>Economics</department>
+        <credits>3</credits>
+        <instructor_id>F019</instructor_id>
+        <schedule>TTH 1:30-2:45</schedule>
+        <max_enrollment>100</max_enrollment>
+        <current_enrollment>98</current_enrollment>
+    </course>
+    <course>
+        <course_id>ECON301-300</course_id>
+        <title>Econometrics</title>
+        <description>Statistical methods for economic analysis and forecasting</description>
+        <department>Economics</department>
+        <credits>3</credits>
+        <instructor_id>F019</instructor_id>
+        <schedule>MWF 4:00-4:50</schedule>
+        <max_enrollment>45</max_enrollment>
+        <current_enrollment>42</current_enrollment>
+    </course>
+    <course>
+        <course_id>STAT201-200</course_id>
+        <title>Applied Statistics</title>
+        <description>Hypothesis testing, regression, and ANOVA</description>
+        <department>Statistics</department>
+        <credits>3</credits>
+        <instructor_id>F026</instructor_id>
+        <schedule>TTH 11:30-12:45</schedule>
+        <max_enrollment>70</max_enrollment>
+        <current_enrollment>68</current_enrollment>
+    </course>
+    <course>
+        <course_id>STAT301-300</course_id>
+        <title>Statistical Modeling</title>
+        <description>Advanced regression techniques and model validation</description>
+        <department>Statistics</department>
+        <credits>3</credits>
+        <instructor_id>F026</instructor_id>
+        <schedule>MWF 2:00-2:50</schedule>
+        <max_enrollment>50</max_enrollment>
+        <current_enrollment>48</current_enrollment>
+    </course>
+</course_catalog>

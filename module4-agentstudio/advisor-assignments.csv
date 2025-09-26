@@ -1,0 +1,51 @@
+student_id,advisor_name,advisor_email,department,assignment_date,meeting_frequency
+10000001,Dr. Robert Chen,robert.chen@university.edu,Computer Science,2023-08-20,Monthly
+10000002,Dr. Sarah Johnson,sarah.johnson@university.edu,Business Administration,2022-08-20,Monthly
+10000003,Dr. Michael Rodriguez,michael.rodriguez@university.edu,Mechanical Engineering,2021-08-22,Bi-weekly
+10000004,Dr. Emily Thompson,emily.thompson@university.edu,Psychology,2023-08-20,Monthly
+10000005,Dr. David Martinez,david.martinez@university.edu,Biology,2022-08-20,Monthly
+10000006,Dr. Jennifer Wilson,jennifer.wilson@university.edu,Computer Science,2021-08-22,Bi-weekly
+10000007,Dr. James Anderson,james.anderson@university.edu,English Literature,2022-08-20,Monthly
+10000008,Dr. Maria Garcia,maria.garcia@university.edu,Chemistry,2023-08-20,Weekly
+10000009,Dr. William Brown,william.brown@university.edu,Marketing,2021-08-22,Monthly
+10000010,Dr. Linda Davis,linda.davis@university.edu,Mathematics,2022-08-20,Monthly
+10000011,Dr. Patricia Moore,patricia.moore@university.edu,Nursing,2022-08-20,Monthly
+10000012,Dr. Susan Taylor,susan.taylor@university.edu,Political Science,2024-08-19,Weekly
+10000013,Dr. Robert Chen,robert.chen@university.edu,Computer Science,2024-08-19,Monthly
+10000014,Dr. Christopher Lee,christopher.lee@university.edu,Finance,2022-08-20,Monthly
+10000015,Dr. Barbara Jackson,barbara.jackson@university.edu,Art History,2021-08-22,Monthly
+10000016,Dr. Daniel Harris,daniel.harris@university.edu,Civil Engineering,2022-08-20,Monthly
+10000017,Dr. Jessica Martin,jessica.martin@university.edu,Sociology,2023-08-20,Monthly
+10000018,Dr. Richard Miller,richard.miller@university.edu,Physics,2021-08-22,Bi-weekly
+10000019,Dr. Brian Lopez,brian.lopez@university.edu,Graphic Design,2023-08-20,Monthly
+10000020,Dr. Paul Thompson,paul.thompson@university.edu,Economics,2022-08-20,Monthly
+10000021,Dr. David Martinez,david.martinez@university.edu,Biology,2021-08-22,Bi-weekly
+10000022,Dr. Jennifer Wilson,jennifer.wilson@university.edu,Computer Science,2023-08-20,Monthly
+10000023,Dr. Helen Scott,helen.scott@university.edu,International Relations,2022-08-20,Monthly
+10000024,Dr. Sandra Wright,sandra.wright@university.edu,Accounting,2021-08-22,Monthly
+10000025,Dr. Nancy Clark,nancy.clark@university.edu,Environmental Science,2024-08-19,Monthly
+10000026,Dr. Mark Lewis,mark.lewis@university.edu,History,2023-08-20,Weekly
+10000027,Dr. Karen Walker,karen.walker@university.edu,Communications,2022-08-20,Monthly
+10000028,Dr. Michael Rodriguez,michael.rodriguez@university.edu,Mechanical Engineering,2021-08-22,Bi-weekly
+10000029,Dr. Steven Hall,steven.hall@university.edu,Philosophy,2023-08-20,Monthly
+10000030,Dr. Andrew King,andrew.king@university.edu,Computer Science,2022-08-20,Monthly
+10000031,Dr. James Anderson,james.anderson@university.edu,English Literature,2024-08-19,Monthly
+10000032,Dr. Sarah Johnson,sarah.johnson@university.edu,Business Administration,2021-08-22,Bi-weekly
+10000033,Dr. Nancy Clark,nancy.clark@university.edu,Environmental Science,2023-08-20,Monthly
+10000034,Dr. Kevin White,kevin.white@university.edu,Data Science,2022-08-20,Monthly
+10000035,Dr. Karen Walker,karen.walker@university.edu,Communications,2023-08-20,Monthly
+10000036,Dr. Lisa Allen,lisa.allen@university.edu,Electrical Engineering,2021-08-22,Bi-weekly
+10000037,Dr. Emily Thompson,emily.thompson@university.edu,Psychology,2022-08-20,Monthly
+10000038,Dr. Joseph Young,joseph.young@university.edu,Music,2024-08-19,Monthly
+10000039,Dr. Maria Garcia,maria.garcia@university.edu,Chemistry,2021-08-22,Bi-weekly
+10000040,Dr. Daniel Harris,daniel.harris@university.edu,Civil Engineering,2022-08-20,Monthly
+10000041,Dr. Jessica Martin,jessica.martin@university.edu,Sociology,2023-08-20,As Needed
+10000042,Dr. Jennifer Wilson,jennifer.wilson@university.edu,Computer Science,2022-08-20,Monthly
+10000043,Dr. Patricia Moore,patricia.moore@university.edu,Nursing,2021-08-22,Bi-weekly
+10000044,Dr. David Martinez,david.martinez@university.edu,Biology,2023-08-20,Monthly
+10000045,Dr. James Anderson,james.anderson@university.edu,English Literature,2024-08-19,Monthly
+10000046,Dr. Susan Taylor,susan.taylor@university.edu,Political Science,2022-08-20,Weekly
+10000047,Dr. William Brown,william.brown@university.edu,Marketing,2021-08-22,Bi-weekly
+10000048,Dr. Mark Lewis,mark.lewis@university.edu,History,2023-08-20,Monthly
+10000049,Dr. Brian Lopez,brian.lopez@university.edu,Graphic Design,2022-08-20,Monthly
+10000050,Dr. Margaret Hernandez,margaret.hernandez@university.edu,Statistics,2021-08-22,Bi-weekly

@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<university_majors>
+    <major>
+        <major_code>CS</major_code>
+        <major_name>Computer Science</major_name>
+        <department>Computer Science</department>
+        <degree_type>BS</degree_type>
+        <description>Study of computation, algorithms, software design, and artificial intelligence</description>
+        <required_gpa>2.5</required_gpa>
+        <capacity>200</capacity>
+    </major>
+    <major>
+        <major_code>BUS</major_code>
+        <major_name>Business Administration</major_name>
+        <department>Business Administration</department>
+        <degree_type>BBA</degree_type>
+        <description>Comprehensive business education covering management, finance, marketing, and operations</description>
+        <required_gpa>2.5</required_gpa>
+        <capacity>300</capacity>
+    </major>
+    <major>
+        <major_code>ME</major_code>
+        <major_name>Mechanical Engineering</major_name>
+        <department>Mechanical Engineering</department>
+        <degree_type>BS</degree_type>
+        <description>Design and analysis of mechanical systems, thermodynamics, and materials science</description>
+        <required_gpa>2.75</required_gpa>
+        <capacity>150</capacity>
+    </major>
+    <major>
+        <major_code>PSY</major_code>
+        <major_name>Psychology</major_name>
+        <department>Psychology</department>
+        <degree_type>BA</degree_type>
+        <description>Scientific study of human behavior, cognition, and mental processes</description>
+        <required_gpa>2.5</required_gpa>
+        <capacity>200</capacity>
+    </major>
+    <major>
+        <major_code>BIO</major_code>
+        <major_name>Biology</major_name>
+        <department>Biology</department>
+        <degree_type>BS</degree_type>
+        <description>Study of living organisms, ecology, genetics, and molecular biology</description>
+        <required_gpa>2.75</required_gpa>
+        <capacity>180</capacity>
+    </major>
+    <major>
+        <major_code>ENG</major_code>
+        <major_name>English Literature</major_name>
+        <department>English Literature</department>
+        <degree_type>BA</degree_type>
+        <description>Analysis of literature, creative writing, and critical theory</description>
+        <required_gpa>2.5</required_gpa>
+        <capacity>100</capacity>
+    </major>
+    <major>
+        <major_code>CHEM</major_code>
+        <major_name>Chemistry</major_name>
+        <department>Chemistry</department>
+        <degree_type>BS</degree_type>
+        <description>Study of matter, chemical reactions, and molecular structures</description>
+        <required_gpa>2.75</required_gpa>
+        <capacity>120</capacity>
+    </major>
+    <major>
+        <major_code>MKT</major_code>
+        <major_name>Marketing</major_name>
+        <department>Marketing</department>
+        <degree_type>BS</degree_type>
+        <description>Consumer behavior, brand management, digital marketing, and market research</description>
+        <required_gpa>2.5</required_gpa>
+        <capacity>150</capacity>
+    </major>
+    <major>
+        <major_code>MATH</major_code>
+        <major_name>Mathematics</major_name>
+        <department>Mathematics</department>
+        <degree_type>BS</degree_type>
+        <description>Pure and applied mathematics, statistics, and computational methods</description>
+        <required_gpa>2.75</required_gpa>
+        <capacity>100</capacity>
+    </major>
+    <major>
+        <major_code>NUR</major_code>
+        <major_name>Nursing</major_name>
+        <department>Nursing</department>
+        <degree_type>BSN</degree_type>
+        <description>Healthcare delivery, patient care, medical knowledge, and clinical practice</description>
+        <required_gpa>3.0</required_gpa>
+        <capacity>120</capacity>
+    </major>
+    <major>
+        <major_code>FIN</major_code>
+        <major_name>Finance</major_name>
+        <department>Finance</department>
+        <degree_type>BS</degree_type>
+        <description>Financial markets, investment analysis, corporate finance, and risk management</description>
+        <required_gpa>2.5</required_gpa>
+        <capacity>150</capacity>
+    </major>
+    <major>
+        <major_code>ART</major_code>
+        <major_name>Art History</major_name>
+        <department>Art History</department>
+        <degree_type>BA</degree_type>
+        <description>History of visual arts, cultural contexts, and aesthetic theory</description>
+        <required_gpa>2.5</required_gpa>
+        <capacity>80</capacity>
+    </major>
+    <major>
+        <major_code>CE</major_code>
+        <major_name>Civil Engineering</major_name>
+        <department>Civil Engineering</department>
+        <degree_type>BS</degree_type>
+        <description>Infrastructure design, structural analysis, and construction management</description>
+        <required_gpa>2.75</required_gpa>
+        <capacity>130</capacity>
+    </major>
+    <major>
+        <major_code>SOC</major_code>
+        <major_name>Sociology</major_name>
+        <department>Sociology</department>
+        <degree_type>BA</degree_type>
+        <description>Study of society, social relationships, and human behavior patterns</description>
+        <required_gpa>2.5</required_gpa>
+        <capacity>120</capacity>
+    </major>
+    <major>
+        <major_code>PHY</major_code>
+        <major_name>Physics</major_name>
+        <department>Physics</department>
+        <degree_type>BS</degree_type>
+        <description>Fundamental laws of nature, quantum mechanics, and theoretical physics</description>
+        <required_gpa>2.75</required_gpa>
+        <capacity>90</capacity>
+    </major>
+    <major>
+        <major_code>ECON</major_code>
+        <major_name>Economics</major_name>
+        <department>Economics</department>
+        <degree_type>BS</degree_type>
+        <description>Economic theory, policy analysis, and quantitative methods</description>
+        <required_gpa>2.5</required_gpa>
+        <capacity>140</capacity>
+    </major>
+    <major>
+        <major_code>DS</major_code>
+        <major_name>Data Science</major_name>
+        <department>Data Science</department>
+        <degree_type>BS</degree_type>
+        <description>Big data analytics, machine learning, and statistical modeling</description>
+        <required_gpa>2.75</required_gpa>
+        <capacity>100</capacity>
+    </major>
+    <major>
+        <major_code>ENV</major_code>
+        <major_name>Environmental Science</major_name>
+        <department>Environmental Science</department>
+        <degree_type>BS</degree_type>
+        <description>Environmental systems, sustainability, and conservation biology</description>
+        <required_gpa>2.5</required_gpa>
+        <capacity>110</capacity>
+    </major>
+    <major>
+        <major_code>HIST</major_code>
+        <major_name>History</major_name>
+        <department>History</department>
+        <degree_type>BA</degree_type>
+        <description>Historical analysis, research methods, and cultural studies</description>
+        <required_gpa>2.5</required_gpa>
+        <capacity>100</capacity>
+    </major>
+    <major>
+        <major_code>COMM</major_code>
+        <major_name>Communications</major_name>
+        <department>Communications</department>
+        <degree_type>BA</degree_type>
+        <description>Media studies, public relations, journalism, and digital communications</description>
+        <required_gpa>2.5</required_gpa>
+        <capacity>160</capacity>
+    </major>
+</university_majors>

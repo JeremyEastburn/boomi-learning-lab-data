@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<faculty_records>
+    <faculty>
+        <faculty_id>F001</faculty_id>
+        <first_name>Robert</first_name>
+        <last_name>Chen</last_name>
+        <department>Computer Science</department>
+        <title>Professor</title>
+        <email>robert.chen@university.edu</email>
+        <office_location>Science Building 302</office_location>
+        <courses_teaching>
+            <course>CS101-100</course>
+            <course>CS301-300</course>
+            <course>CS401-400</course>
+        </courses_teaching>
+    </faculty>
+    <faculty>
+        <faculty_id>F002</faculty_id>
+        <first_name>Sarah</first_name>
+        <last_name>Johnson</last_name>
+        <department>Business Administration</department>
+        <title>Associate Professor</title>
+        <email>sarah.johnson@university.edu</email>
+        <office_location>Business Hall 215</office_location>
+        <courses_teaching>
+            <course>BUS101-100</course>
+            <course>BUS220-200</course>
+        </courses_teaching>
+    </faculty>
+    <faculty>
+        <faculty_id>F003</faculty_id>
+        <first_name>Michael</first_name>
+        <last_name>Rodriguez</last_name>
+        <department>Mechanical Engineering</department>
+        <title>Professor</title>
+        <email>michael.rodriguez@university.edu</email>
+        <office_location>Engineering Complex 412</office_location>
+        <courses_teaching>
+            <course>ME201-200</course>
+            <course>ME305-300</course>
+        </courses_teaching>
+    </faculty>
+    <faculty>
+        <faculty_id>F004</faculty_id>
+        <first_name>Emily</first_name>
+        <last_name>Thompson</last_name>
+        <department>Psychology</department>
+        <title>Assistant Professor</title>
+        <email>emily.thompson@university.edu</email>
+        <office_location>Liberal Arts 108</office_location>
+        <courses_teaching>
+            <course>PSY101-100</course>
+            <course>PSY250-200</course>
+            <course>PSY320-300</course>
+        </courses_teaching>
+    </faculty>
+    <faculty>
+        <faculty_id>F005</faculty_id>
+        <first_name>David</first_name>
+        <last_name>Martinez</last_name>
+        <department>Biology</department>
+        <title>Professor</title>
+        <email>david.martinez@university.edu</email>
+        <office_location>Life Sciences 205</office_location>
+        <courses_teaching>
+            <course>BIO101-100</course>
+            <course>BIO210-200</course>
+        </courses_teaching>
+    </faculty>
+    <faculty>
+        <faculty_id>F006</faculty_id>
+        <first_name>Jennifer</first_name>
+        <last_name>Wilson</last_name>
+        <department>Computer Science</department>
+        <title>Associate Professor</title>
+        <email>jennifer.wilson@university.edu</email>
+        <office_location>Science Building 318</office_location>
+        <courses_teaching>
+            <course>CS102-100</course>
+            <course>CS220-200</course>
+            <course>CS350-300</course>
+        </courses_teaching>
+    </faculty>
+    <faculty>
+        <faculty_id>F007</faculty_id>
+        <first_name>James</first_name>
+        <last_name>Anderson</last_name>
+        <department>English Literature</department>
+        <title>Professor</title>
+        <email>james.anderson@university.edu</email>
+        <office_location>Humanities 402</office_location>
+        <courses_teaching>
+            <course>ENG101-100</course>
+            <course>ENG205-200</course>
+        </courses_teaching>
+    </faculty>
+    <faculty>
+        <faculty_id>F008</faculty_id>
+        <first_name>Maria</first_name>
+        <last_name>Garcia</last_name>
+        <department>Chemistry</department>
+        <title>Associate Professor</title>
+        <email>maria.garcia@university.edu</email>
+        <office_location>Chemistry Building 220</office_location>
+        <courses_teaching>
+            <course>CHEM101-100</course>
+            <course>CHEM201-200</course>
+            <course>CHEM301-300</course>
+        </courses_teaching>
+    </faculty>
+    <faculty>
+        <faculty_id>F009</faculty_id>
+        <first_name>William</first_name>
+        <last_name>Brown</last_name>
+        <department>Marketing</department>
+        <title>Assistant Professor</title>
+        <email>william.brown@university.edu</email>
+        <office_location>Business Hall 308</office_location>
+        <courses_teaching>
+            <course>MKT201-200</course>
+            <course>MKT310-300</course>
+        </courses_teaching>
+    </faculty>
+    <faculty>
+        <faculty_id>F010</faculty_id>
+        <first_name>Linda</first_name>
+        <last_name>Davis</last_name>
+        <department>Mathematics</department>
+        <title>Professor</title>
+        <email>linda.davis@university.edu</email>
+        <office_location>Mathematical Sciences 515</office_location>
+        <courses_teaching>
+            <course>MATH101-100</course>
+            <course>MATH201-200</course>
+            <course>MATH301-300</course>
+        </courses_teaching>
+    </faculty>
+    <faculty>
+        <faculty_id>F011</faculty_id>
+        <first_name>Richard</first_name>
+        <last_name>Miller</last_name>
+        <department>Physics</department>
+        <title>Professor</title>
+        <email>richard.miller@university.edu</email>
+        <office_location>Physics Building 301</office_location>
+        <courses_teaching>
+            <course>PHY101-100</course>
+            <course>PHY201-200</course>
+        </courses_teaching>
+    </faculty>
+    <faculty>
+        <faculty_id>F012</faculty_id>
+        <first_name>Susan</first_name>
+        <last_name>Taylor</last_name>
+        <department>Political Science</department>
+        <title>Associate Professor</title>
+        <email>susan.taylor@university.edu</email>
+        <office_location>Social Sciences 210</office_location>
+        <courses_teaching>
+            <course>POL101-100</course>
+            <course>POL220-200</course>
+        </courses_teaching>
+    </faculty>
+    <faculty>
+        <faculty_id>F013</faculty_id>
+        <first_name>Kevin</first_name>
+        <last_name>White</last_name>
+        <department>Data Science</department>
+        <title>Assistant Professor</title>
+        <email>kevin.white@university.edu</email>
+        <office_location>Technology Center 405</office_location>
+        <courses_teaching>
+            <course>DS201-200</course>
+            <course>DS301-300</course>
+        </courses_teaching>
+    </faculty>
+    <faculty>
+        <faculty_id>F014</faculty_id>
+        <first_name>Patricia</first_name>
+        <last_name>Moore</last_name>
+        <department>Nursing</department>
+        <title>Professor</title>
+        <email>patricia.moore@university.edu</email>
+        <office_location>Health Sciences 112</office_location>
+        <courses_teaching>
+            <course>NUR201-200</course>
+            <course>NUR301-300</course>
+        </courses_teaching>
+    </faculty>
+    <faculty>
+        <faculty_id>F015</faculty_id>
+        <first_name>Christopher</first_name>
+        <last_name>Lee</last_name>
+        <department>Finance</department>
+        <title>Associate Professor</title>
+        <email>christopher.lee@university.edu</email>
+        <office_location>Business Hall 420</office_location>
+        <courses_teaching>
+            <course>FIN201-200</course>
+            <course>FIN305-300</course>
+        </courses_teaching>
+    </faculty>
+    <faculty>
+        <faculty_id>F016</faculty_id>
+        <first_name>Barbara</first_name>
+        <last_name>Jackson</last_name>
+        <department>Art History</department>
+        <title>Professor</title>
+        <email>barbara.jackson@university.edu</email>
+        <office_location>Arts Building 203</office_location>
+        <courses_teaching>
+            <course>ART101-100</course>
+            <course>ART250-200</course>
+        </courses_teaching>
+    </faculty>
+    <faculty>
+        <faculty_id>F017</faculty_id>
+        <first_name>Daniel</first_name>
+        <last_name>Harris</last_name>
+        <department>Civil Engineering</department>
+        <title>Associate Professor</title>
+        <email>daniel.harris@university.edu</email>
+        <office_location>Engineering Complex 308</office_location>
+        <courses_teaching>
+            <course>CE201-200</course>
+            <course>CE310-300</course>
+        </courses_teaching>
+    </faculty>
+    <faculty>
+        <faculty_id>F018</faculty_id>
+        <first_name>Jessica</first_name>
+        <last_name>Martin</last_name>
+        <department>Sociology</department>
+        <title>Assistant Professor</title>
+        <email>jessica.martin@university.edu</email>
+        <office_location>Social Sciences 115</office_location>
+        <courses_teaching>
+            <course>SOC101-100</course>
+            <course>SOC210-200</course>
+        </courses_teaching>
+    </faculty>
+    <faculty>
+        <faculty_id>F019</faculty_id>
+        <first_name>Paul</first_name>
+        <last_name>Thompson</last_name>
+        <department>Economics</department>
+        <title>Professor</title>
+        <email>paul.thompson@university.edu</email>
+        <office_location>Economics Building 410</office_location>
+        <courses_teaching>
+            <course>ECON101-100</course>
+            <course>ECON201-200</course>
+            <course>ECON301-300</course>
+        </courses_teaching>
+    </faculty>
+    <faculty>
+        <faculty_id>F020</faculty_id>
+        <first_name>Nancy</first_name>
+        <last_name>Clark</last_name>
+        <department>Environmental Science</department>
+        <title>Associate Professor</title>
+        <email>nancy.clark@university.edu</email>
+        <office_location>Environmental Studies 205</office_location>
+        <courses_teaching>
+            <course>ENV101-100</course>
+            <course>ENV220-200</course>
+        </courses_teaching>
+    </faculty>
+    <faculty>
+        <faculty_id>F021</faculty_id>
+        <first_name>Mark</first_name>
+        <last_name>Lewis</last_name>
+        <department>History</department>
+        <title>Professor</title>
+        <email>mark.lewis@university.edu</email>
+        <office_location>Humanities 318</office_location>
+        <courses_teaching>
+            <course>HIST101-100</course>
+            <course>HIST201-200</course>
+        </courses_teaching>
+    </faculty>
+    <faculty>
+        <faculty_id>F022</faculty_id>
+        <first_name>Karen</first_name>
+        <last_name>Walker</last_name>
+        <department>Communications</department>
+        <title>Assistant Professor</title>
+        <email>karen.walker@university.edu</email>
+        <office_location>Communications Building 110</office_location>
+        <courses_teaching>
+            <course>COMM101-100</course>
+            <course>COMM205-200</course>
+        </courses_teaching>
+    </faculty>
+    <faculty>
+        <faculty_id>F023</faculty_id>
+        <first_name>Steven</first_name>
+        <last_name>Hall</last_name>
+        <department>Philosophy</department>
+        <title>Associate Professor</title>
+        <email>steven.hall@university.edu</email>
+        <office_location>Philosophy Building 225</office_location>
+        <courses_teaching>
+            <course>PHIL101-100</course>
+            <course>PHIL210-200</course>
+        </courses_teaching>
+    </faculty>
+    <faculty>
+        <faculty_id>F024</faculty_id>
+        <first_name>Lisa</first_name>
+        <last_name>Allen</last_name>
+        <department>Electrical Engineering</department>
+        <title>Professor</title>
+        <email>lisa.allen@university.edu</email>
+        <office_location>Engineering Complex 516</office_location>
+        <courses_teaching>
+            <course>EE201-200</course>
+            <course>EE301-300</course>
+        </courses_teaching>
+    </faculty>
+    <faculty>
+        <faculty_id>F025</faculty_id>
+        <first_name>Joseph</first_name>
+        <last_name>Young</last_name>
+        <department>Music</department>
+        <title>Associate Professor</title>
+        <email>joseph.young@university.edu</email>
+        <office_location>Music Hall 102</office_location>
+        <courses_teaching>
+            <course>MUS101-100</course>
+            <course>MUS201-200</course>
+        </courses_teaching>
+    </faculty>
+    <faculty>
+        <faculty_id>F026</faculty_id>
+        <first_name>Margaret</first_name>
+        <last_name>Hernandez</last_name>
+        <department>Statistics</department>
+        <title>Professor</title>
+        <email>margaret.hernandez@university.edu</email>
+        <office_location>Mathematical Sciences 420</office_location>
+        <courses_teaching>
+            <course>STAT201-200</course>
+            <course>STAT301-300</course>
+        </courses_teaching>
+    </faculty>
+    <faculty>
+        <faculty_id>F027</faculty_id>
+        <first_name>Andrew</first_name>
+        <last_name>King</last_name>
+        <department>Computer Science</department>
+        <title>Assistant Professor</title>
+        <email>andrew.king@university.edu</email>
+        <office_location>Science Building 325</office_location>
+        <courses_teaching>
+            <course>CS210-200</course>
+            <course>CS310-300</course>
+        </courses_teaching>
+    </faculty>
+    <faculty>
+        <faculty_id>F028</faculty_id>
+        <first_name>Sandra</first_name>
+        <last_name>Wright</last_name>
+        <department>Accounting</department>
+        <title>Associate Professor</title>
+        <email>sandra.wright@university.edu</email>
+        <office_location>Business Hall 512</office_location>
+        <courses_teaching>
+            <course>ACC201-200</course>
+            <course>ACC301-300</course>
+        </courses_teaching>
+    </faculty>
+    <faculty>
+        <faculty_id>F029</faculty_id>
+        <first_name>Brian</first_name>
+        <last_name>Lopez</last_name>
+        <department>Graphic Design</department>
+        <title>Assistant Professor</title>
+        <email>brian.lopez@university.edu</email>
+        <office_location>Arts Building 315</office_location>
+        <courses_teaching>
+            <course>GD101-100</course>
+            <course>GD201-200</course>
+        </courses_teaching>
+    </faculty>
+    <faculty>
+        <faculty_id>F030</faculty_id>
+        <first_name>Helen</first_name>
+        <last_name>Scott</last_name>
+        <department>International Relations</department>
+        <title>Professor</title>
+        <email>helen.scott@university.edu</email>
+        <office_location>Global Studies 408</office_location>
+        <courses_teaching>
+            <course>IR201-200</course>
+            <course>IR310-300</course>
+        </courses_teaching>
+    </faculty>
+</faculty_records>

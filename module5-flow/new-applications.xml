@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- This is a template/schema for new student applications submitted via Flow → Integration → APIM -->
+<application_template>
+    <application>
+        <application_id>APP-2025-{auto_generated}</application_id>
+        <timestamp>{submission_timestamp}</timestamp>
+        <personal_info>
+            <first_name>{required}</first_name>
+            <last_name>{required}</last_name>
+            <middle_name>{optional}</middle_name>
+            <date_of_birth>{required}</date_of_birth>
+            <ssn_last_four>{required}</ssn_last_four>
+            <gender>{optional}</gender>
+            <citizenship_status>{required}</citizenship_status>
+        </personal_info>
+        <contact_info>
+            <email>{required}</email>
+            <phone_primary>{required}</phone_primary>
+            <phone_secondary>{optional}</phone_secondary>
+            <permanent_address>
+                <street>{required}</street>
+                <city>{required}</city>
+                <state>{required}</state>
+                <zip_code>{required}</zip_code>
+                <country>{required}</country>
+            </permanent_address>
+            <mailing_address>
+                <same_as_permanent>{boolean}</same_as_permanent>
+                <street>{conditional}</street>
+                <city>{conditional}</city>
+                <state>{conditional}</state>
+                <zip_code>{conditional}</zip_code>
+                <country>{conditional}</country>
+            </mailing_address>
+        </contact_info>
+        <academic_info>
+            <selected_major_code>{required_from_dropdown}</selected_major_code>
+            <selected_major_name>{auto_populated}</selected_major_name>
+            <intended_start_semester>{required}</intended_start_semester>
+            <intended_start_year>{required}</intended_start_year>
+            <enrollment_type>{full_time_or_part_time}</enrollment_type>
+            <previous_education>
+                <high_school>
+                    <school_name>{required}</school_name>
+                    <graduation_date>{required}</graduation_date>
+                    <gpa>{required}</gpa>
+                    <class_rank>{optional}</class_rank>
+                </high_school>
+                <sat_scores>
+                    <total>{optional}</total>
+                    <math>{optional}</math>
+                    <reading>{optional}</reading>
+                </sat_scores>
+                <act_scores>
+                    <composite>{optional}</composite>
+                </act_scores>
+                <transfer_info>
+                    <is_transfer>{boolean}</is_transfer>
+                    <previous_institution>{conditional}</previous_institution>
+                    <credits_earned>{conditional}</credits_earned>
+                    <gpa>{conditional}</gpa>
+                </transfer_info>
+            </previous_education>
+        </academic_info>
+        <additional_info>
+            <essay_response>{required_min_250_words}</essay_response>
+            <extracurricular_activities>{optional_max_500_words}</extracurricular_activities>
+            <work_experience>{optional_max_500_words}</work_experience>
+            <references>
+                <reference>
+                    <name>{required}</name>
+                    <relationship>{required}</relationship>
+                    <email>{required}</email>
+                    <phone>{required}</phone>
+                </reference>
+                <reference>
+                    <name>{required}</name>
+                    <relationship>{required}</relationship>
+                    <email>{required}</email>
+                    <phone>{required}</phone>
+                </reference>
+            </references>
+        </additional_info>
+        <financial_aid>
+            <applying_for_aid>{boolean}</applying_for_aid>
+            <fafsa_submitted>{conditional}</fafsa_submitted>
+            <family_income_range>{optional}</family_income_range>
+        </financial_aid>
+        <submission_details>
+            <ip_address>{auto_captured}</ip_address>
+            <browser_info>{auto_captured}</browser_info>
+            <submission_status>Pending Review</submission_status>
+            <review_notes></review_notes>
+        </submission_details>
+    </application>
+</application_template>
+
+<!-- Sample submission for testing (this would be POSTed to the API) -->
+<sample_application>
+    <application>
+        <application_id>APP-2025-000001</application_id>
+        <timestamp>2025-01-25T14:30:00Z</timestamp>
+        <personal_info>
+            <first_name>Alexandra</first_name>
+            <last_name>Mitchell</last_name>
+            <middle_name>Rose</middle_name>
+            <date_of_birth>2007-03-15</date_of_birth>
+            <ssn_last_four>5678</ssn_last_four>
+            <gender>Female</gender>
+            <citizenship_status>US Citizen</citizenship_status>
+        </personal_info>
+        <contact_info>
+            <email>alexandra.mitchell@email.com</email>
+            <phone_primary>555-234-5678</phone_primary>
+            <phone_secondary></phone_secondary>
+            <permanent_address>
+                <street>123 Maple Street</street>
+                <city>Springfield</city>
+                <state>IL</state>
+                <zip_code>62701</zip_code>
+                <country>USA</country>
+            </permanent_address>
+            <mailing_address>
+                <same_as_permanent>true</same_as_permanent>
+            </mailing_address>
+        </contact_info>
+        <academic_info>
+            <selected_major_code>CS</selected_major_code>
+            <selected_major_name>Computer Science</selected_major_name>
+            <intended_start_semester>Fall</intended_start_semester>
+            <intended_start_year>2025</intended_start_year>
+            <enrollment_type>Full Time</enrollment_type>
+            <previous_education>
+                <high_school>
+                    <school_name>Springfield High School</school_name>
+                    <graduation_date>2025-06-15</graduation_date>
+                    <gpa>3.85</gpa>
+                    <class_rank>25/450</class_rank>
+                </high_school>
+                <sat_scores>
+                    <total>1420</total>
+                    <math>740</math>
+                    <reading>680</reading>
+                </sat_scores>
+                <act_scores>
+                    <composite></composite>
+                </act_scores>
+                <transfer_info>
+                    <is_transfer>false</is_transfer>
+                </transfer_info>
+            </previous_education>
+        </academic_info>
+        <additional_info>
+            <essay_response>My passion for computer science began when I first learned to code in my sophomore year. Building my first web application opened my eyes to the endless possibilities of technology. I am particularly interested in artificial intelligence and machine learning, having completed several online courses and personal projects in these areas. Your university's strong CS program and research opportunities in AI align perfectly with my academic goals. I am excited about the prospect of contributing to ongoing research while developing my skills through your comprehensive curriculum.</essay_response>
+            <extracurricular_activities>President of Coding Club (2 years), Robotics Team Captain, National Honor Society member, Volunteer tutor for elementary school students learning basic programming</extracurricular_activities>
+            <work_experience>Summer internship at local tech startup (2024), Part-time web developer for small businesses (2023-present)</work_experience>
+            <references>
+                <reference>
+                    <name>Dr. Jennifer Smith</name>
+                    <relationship>Computer Science Teacher</relationship>
+                    <email>jsmith@springfield.edu</email>
+                    <phone>555-111-2222</phone>
+                </reference>
+                <reference>
+                    <name>Mark Johnson</name>
+                    <relationship>Coding Club Advisor</relationship>
+                    <email>mjohnson@springfield.edu</email>
+                    <phone>555-333-4444</phone>
+                </reference>
+            </references>
+        </additional_info>
+        <financial_aid>
+            <applying_for_aid>true</applying_for_aid>
+            <fafsa_submitted>true</fafsa_submitted>
+            <family_income_range>$50,000-$75,000</family_income_range>
+        </financial_aid>
+        <submission_details>
+            <ip_address>192.168.1.100</ip_address>
+            <browser_info>Mozilla/5.0 Chrome/120.0.0.0</browser_info>
+            <submission_status>Pending Review</submission_status>
+            <review_notes></review_notes>
+        </submission_details>
+    </application>
+</sample_application>
