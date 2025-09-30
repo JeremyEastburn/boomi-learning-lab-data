@@ -1,0 +1,796 @@
+{
+  "enrollments": [
+    {
+      "student_id": "10000001",
+      "course_id": "CS101-100",
+      "section": "01",
+      "semester": "Fall 2024",
+      "grade": "A",
+      "completion_status": "Completed",
+      "last_access_date": "2024-12-15"
+    },
+    {
+      "student_id": "10000001",
+      "course_id": "CS220-200",
+      "section": "02",
+      "semester": "Spring 2025",
+      "grade": "IP",
+      "completion_status": "In Progress",
+      "last_access_date": "2025-01-24"
+    },
+    {
+      "student_id": "10000001",
+      "course_id": "MATH201-200",
+      "section": "01",
+      "semester": "Spring 2025",
+      "grade": "IP",
+      "completion_status": "In Progress",
+      "last_access_date": "2025-01-23"
+    },
+    {
+      "student_id": "10000002",
+      "course_id": "BUS101-100",
+      "section": "01",
+      "semester": "Fall 2023",
+      "grade": "B+",
+      "completion_status": "Completed",
+      "last_access_date": "2023-12-18"
+    },
+    {
+      "student_id": "10000002",
+      "course_id": "BUS220-200",
+      "section": "01",
+      "semester": "Spring 2025",
+      "grade": "IP",
+      "completion_status": "In Progress",
+      "last_access_date": "2025-01-25"
+    },
+    {
+      "student_id": "10000002",
+      "course_id": "ECON101-100",
+      "section": "02",
+      "semester": "Fall 2024",
+      "grade": "B",
+      "completion_status": "Completed",
+      "last_access_date": "2024-12-16"
+    },
+    {
+      "student_id": "10000003",
+      "course_id": "ME201-200",
+      "section": "01",
+      "semester": "Fall 2024",
+      "grade": "A-",
+      "completion_status": "Completed",
+      "last_access_date": "2024-12-17"
+    },
+    {
+      "student_id": "10000003",
+      "course_id": "ME305-300",
+      "section": "01",
+      "semester": "Spring 2025",
+      "grade": "IP",
+      "completion_status": "In Progress",
+      "last_access_date": "2025-01-24"
+    },
+    {
+      "student_id": "10000003",
+      "course_id": "PHY201-200",
+      "section": "01",
+      "semester": "Spring 2024",
+      "grade": "A",
+      "completion_status": "Completed",
+      "last_access_date": "2024-05-15"
+    },
+    {
+      "student_id": "10000004",
+      "course_id": "PSY101-100",
+      "section": "02",
+      "semester": "Fall 2024",
+      "grade": "C+",
+      "completion_status": "Completed",
+      "last_access_date": "2024-12-14"
+    },
+    {
+      "student_id": "10000004",
+      "course_id": "PSY250-200",
+      "section": "01",
+      "semester": "Spring 2025",
+      "grade": "IP",
+      "completion_status": "In Progress",
+      "last_access_date": "2025-01-22"
+    },
+    {
+      "student_id": "10000005",
+      "course_id": "BIO101-100",
+      "section": "01",
+      "semester": "Fall 2023",
+      "grade": "A-",
+      "completion_status": "Completed",
+      "last_access_date": "2023-12-19"
+    },
+    {
+      "student_id": "10000005",
+      "course_id": "BIO210-200",
+      "section": "01",
+      "semester": "Spring 2025",
+      "grade": "IP",
+      "completion_status": "In Progress",
+      "last_access_date": "2025-01-25"
+    },
+    {
+      "student_id": "10000005",
+      "course_id": "CHEM101-100",
+      "section": "02",
+      "semester": "Fall 2022",
+      "grade": "B+",
+      "completion_status": "Completed",
+      "last_access_date": "2022-12-20"
+    },
+    {
+      "student_id": "10000006",
+      "course_id": "CS101-100",
+      "section": "01",
+      "semester": "Fall 2021",
+      "grade": "A",
+      "completion_status": "Completed",
+      "last_access_date": "2021-12-18"
+    },
+    {
+      "student_id": "10000006",
+      "course_id": "CS102-100",
+      "section": "01",
+      "semester": "Spring 2022",
+      "grade": "B+",
+      "completion_status": "Completed",
+      "last_access_date": "2022-05-16"
+    },
+    {
+      "student_id": "10000006",
+      "course_id": "CS301-300",
+      "section": "01",
+      "semester": "Fall 2024",
+      "grade": "A-",
+      "completion_status": "Completed",
+      "last_access_date": "2024-12-19"
+    },
+    {
+      "student_id": "10000006",
+      "course_id": "CS401-400",
+      "section": "01",
+      "semester": "Spring 2025",
+      "grade": "IP",
+      "completion_status": "In Progress",
+      "last_access_date": "2025-01-25"
+    },
+    {
+      "student_id": "10000007",
+      "course_id": "ENG101-100",
+      "section": "01",
+      "semester": "Fall 2022",
+      "grade": "B",
+      "completion_status": "Completed",
+      "last_access_date": "2022-12-17"
+    },
+    {
+      "student_id": "10000007",
+      "course_id": "ENG205-200",
+      "section": "01",
+      "semester": "Spring 2025",
+      "grade": "IP",
+      "completion_status": "In Progress",
+      "last_access_date": "2025-01-23"
+    },
+    {
+      "student_id": "10000008",
+      "course_id": "CHEM101-100",
+      "section": "01",
+      "semester": "Fall 2023",
+      "grade": "C",
+      "completion_status": "Completed",
+      "last_access_date": "2023-12-15"
+    },
+    {
+      "student_id": "10000008",
+      "course_id": "CHEM201-200",
+      "section": "01",
+      "semester": "Spring 2025",
+      "grade": "IP",
+      "completion_status": "In Progress",
+      "last_access_date": "2025-01-20"
+    },
+    {
+      "student_id": "10000009",
+      "course_id": "MKT201-200",
+      "section": "01",
+      "semester": "Spring 2024",
+      "grade": "A",
+      "completion_status": "Completed",
+      "last_access_date": "2024-05-18"
+    },
+    {
+      "student_id": "10000009",
+      "course_id": "MKT310-300",
+      "section": "01",
+      "semester": "Fall 2024",
+      "grade": "A-",
+      "completion_status": "Completed",
+      "last_access_date": "2024-12-16"
+    },
+    {
+      "student_id": "10000010",
+      "course_id": "MATH101-100",
+      "section": "01",
+      "semester": "Fall 2022",
+      "grade": "B+",
+      "completion_status": "Completed",
+      "last_access_date": "2022-12-19"
+    },
+    {
+      "student_id": "10000010",
+      "course_id": "MATH201-200",
+      "section": "01",
+      "semester": "Spring 2025",
+      "grade": "IP",
+      "completion_status": "In Progress",
+      "last_access_date": "2025-01-24"
+    },
+    {
+      "student_id": "10000011",
+      "course_id": "BIO101-100",
+      "section": "02",
+      "semester": "Fall 2022",
+      "grade": "A",
+      "completion_status": "Completed",
+      "last_access_date": "2022-12-18"
+    },
+    {
+      "student_id": "10000012",
+      "course_id": "PSY101-100",
+      "section": "01",
+      "semester": "Fall 2024",
+      "grade": "C-",
+      "completion_status": "Completed",
+      "last_access_date": "2024-12-14"
+    },
+    {
+      "student_id": "10000013",
+      "course_id": "CS101-100",
+      "section": "02",
+      "semester": "Fall 2024",
+      "grade": "B+",
+      "completion_status": "Completed",
+      "last_access_date": "2024-12-17"
+    },
+    {
+      "student_id": "10000013",
+      "course_id": "CS102-100",
+      "section": "01",
+      "semester": "Spring 2025",
+      "grade": "IP",
+      "completion_status": "In Progress",
+      "last_access_date": "2025-01-25"
+    },
+    {
+      "student_id": "10000014",
+      "course_id": "FIN201-200",
+      "section": "01",
+      "semester": "Spring 2025",
+      "grade": "IP",
+      "completion_status": "In Progress",
+      "last_access_date": "2025-01-23"
+    },
+    {
+      "student_id": "10000015",
+      "course_id": "ENG101-100",
+      "section": "02",
+      "semester": "Fall 2021",
+      "grade": "A-",
+      "completion_status": "Completed",
+      "last_access_date": "2021-12-16"
+    },
+    {
+      "student_id": "10000016",
+      "course_id": "PHY101-100",
+      "section": "01",
+      "semester": "Fall 2023",
+      "grade": "B",
+      "completion_status": "Completed",
+      "last_access_date": "2023-12-18"
+    },
+    {
+      "student_id": "10000017",
+      "course_id": "PSY101-100",
+      "section": "01",
+      "semester": "Fall 2023",
+      "grade": "B-",
+      "completion_status": "Completed",
+      "last_access_date": "2023-12-15"
+    },
+    {
+      "student_id": "10000018",
+      "course_id": "PHY101-100",
+      "section": "01",
+      "semester": "Fall 2021",
+      "grade": "A",
+      "completion_status": "Completed",
+      "last_access_date": "2021-12-19"
+    },
+    {
+      "student_id": "10000018",
+      "course_id": "PHY201-200",
+      "section": "01",
+      "semester": "Spring 2022",
+      "grade": "A",
+      "completion_status": "Completed",
+      "last_access_date": "2022-05-17"
+    },
+    {
+      "student_id": "10000019",
+      "course_id": "CS210-200",
+      "section": "01",
+      "semester": "Spring 2025",
+      "grade": "IP",
+      "completion_status": "In Progress",
+      "last_access_date": "2025-01-24"
+    },
+    {
+      "student_id": "10000020",
+      "course_id": "ECON101-100",
+      "section": "01",
+      "semester": "Fall 2023",
+      "grade": "C+",
+      "completion_status": "Completed",
+      "last_access_date": "2023-12-17"
+    },
+    {
+      "student_id": "10000020",
+      "course_id": "ECON201-200",
+      "section": "01",
+      "semester": "Spring 2025",
+      "grade": "IP",
+      "completion_status": "In Progress",
+      "last_access_date": "2025-01-22"
+    },
+    {
+      "student_id": "10000021",
+      "course_id": "BIO101-100",
+      "section": "01",
+      "semester": "Fall 2021",
+      "grade": "A",
+      "completion_status": "Completed",
+      "last_access_date": "2021-12-18"
+    },
+    {
+      "student_id": "10000021",
+      "course_id": "CHEM201-200",
+      "section": "01",
+      "semester": "Fall 2024",
+      "grade": "B+",
+      "completion_status": "Completed",
+      "last_access_date": "2024-12-16"
+    },
+    {
+      "student_id": "10000022",
+      "course_id": "CS101-100",
+      "section": "01",
+      "semester": "Fall 2023",
+      "grade": "B+",
+      "completion_status": "Completed",
+      "last_access_date": "2023-12-19"
+    },
+    {
+      "student_id": "10000022",
+      "course_id": "CS102-100",
+      "section": "01",
+      "semester": "Spring 2024",
+      "grade": "A-",
+      "completion_status": "Completed",
+      "last_access_date": "2024-05-16"
+    },
+    {
+      "student_id": "10000022",
+      "course_id": "CS220-200",
+      "section": "01",
+      "semester": "Spring 2025",
+      "grade": "IP",
+      "completion_status": "In Progress",
+      "last_access_date": "2025-01-25"
+    },
+    {
+      "student_id": "10000023",
+      "course_id": "ECON101-100",
+      "section": "02",
+      "semester": "Fall 2023",
+      "grade": "B",
+      "completion_status": "Completed",
+      "last_access_date": "2023-12-16"
+    },
+    {
+      "student_id": "10000024",
+      "course_id": "BUS101-100",
+      "section": "01",
+      "semester": "Fall 2021",
+      "grade": "C+",
+      "completion_status": "Completed",
+      "last_access_date": "2021-12-17"
+    },
+    {
+      "student_id": "10000025",
+      "course_id": "BIO101-100",
+      "section": "01",
+      "semester": "Fall 2024",
+      "grade": "B+",
+      "completion_status": "Completed",
+      "last_access_date": "2024-12-18"
+    },
+    {
+      "student_id": "10000026",
+      "course_id": "ENG101-100",
+      "section": "01",
+      "semester": "Fall 2023",
+      "grade": "C",
+      "completion_status": "Completed",
+      "last_access_date": "2023-12-14"
+    },
+    {
+      "student_id": "10000027",
+      "course_id": "ENG101-100",
+      "section": "02",
+      "semester": "Fall 2022",
+      "grade": "B",
+      "completion_status": "Completed",
+      "last_access_date": "2022-12-16"
+    },
+    {
+      "student_id": "10000028",
+      "course_id": "ME201-200",
+      "section": "01",
+      "semester": "Spring 2023",
+      "grade": "A",
+      "completion_status": "Completed",
+      "last_access_date": "2023-05-17"
+    },
+    {
+      "student_id": "10000028",
+      "course_id": "ME305-300",
+      "section": "01",
+      "semester": "Fall 2024",
+      "grade": "A",
+      "completion_status": "Completed",
+      "last_access_date": "2024-12-19"
+    },
+    {
+      "student_id": "10000029",
+      "course_id": "PSY101-100",
+      "section": "01",
+      "semester": "Fall 2023",
+      "grade": "B-",
+      "completion_status": "Completed",
+      "last_access_date": "2023-12-15"
+    },
+    {
+      "student_id": "10000030",
+      "course_id": "CS101-100",
+      "section": "01",
+      "semester": "Fall 2022",
+      "grade": "B+",
+      "completion_status": "Completed",
+      "last_access_date": "2022-12-18"
+    },
+    {
+      "student_id": "10000030",
+      "course_id": "CS102-100",
+      "section": "01",
+      "semester": "Spring 2023",
+      "grade": "B",
+      "completion_status": "Completed",
+      "last_access_date": "2023-05-16"
+    },
+    {
+      "student_id": "10000030",
+      "course_id": "CS210-200",
+      "section": "01",
+      "semester": "Fall 2024",
+      "grade": "A-",
+      "completion_status": "Completed",
+      "last_access_date": "2024-12-17"
+    },
+    {
+      "student_id": "10000030",
+      "course_id": "CS310-300",
+      "section": "01",
+      "semester": "Spring 2025",
+      "grade": "IP",
+      "completion_status": "In Progress",
+      "last_access_date": "2025-01-24"
+    },
+    {
+      "student_id": "10000031",
+      "course_id": "ENG101-100",
+      "section": "01",
+      "semester": "Fall 2024",
+      "grade": "B",
+      "completion_status": "Completed",
+      "last_access_date": "2024-12-15"
+    },
+    {
+      "student_id": "10000032",
+      "course_id": "BUS101-100",
+      "section": "01",
+      "semester": "Fall 2021",
+      "grade": "A-",
+      "completion_status": "Completed",
+      "last_access_date": "2021-12-19"
+    },
+    {
+      "student_id": "10000032",
+      "course_id": "FIN305-300",
+      "section": "01",
+      "semester": "Fall 2024",
+      "grade": "B+",
+      "completion_status": "Completed",
+      "last_access_date": "2024-12-18"
+    },
+    {
+      "student_id": "10000033",
+      "course_id": "BIO101-100",
+      "section": "01",
+      "semester": "Fall 2023",
+      "grade": "B",
+      "completion_status": "Completed",
+      "last_access_date": "2023-12-16"
+    },
+    {
+      "student_id": "10000034",
+      "course_id": "CS101-100",
+      "section": "01",
+      "semester": "Fall 2022",
+      "grade": "A",
+      "completion_status": "Completed",
+      "last_access_date": "2022-12-20"
+    },
+    {
+      "student_id": "10000034",
+      "course_id": "DS201-200",
+      "section": "01",
+      "semester": "Spring 2024",
+      "grade": "A-",
+      "completion_status": "Completed",
+      "last_access_date": "2024-05-18"
+    },
+    {
+      "student_id": "10000034",
+      "course_id": "DS301-300",
+      "section": "01",
+      "semester": "Spring 2025",
+      "grade": "IP",
+      "completion_status": "In Progress",
+      "last_access_date": "2025-01-25"
+    },
+    {
+      "student_id": "10000035",
+      "course_id": "ENG101-100",
+      "section": "02",
+      "semester": "Fall 2023",
+      "grade": "C+",
+      "completion_status": "Completed",
+      "last_access_date": "2023-12-14"
+    },
+    {
+      "student_id": "10000036",
+      "course_id": "PHY101-100",
+      "section": "01",
+      "semester": "Fall 2021",
+      "grade": "B+",
+      "completion_status": "Completed",
+      "last_access_date": "2021-12-18"
+    },
+    {
+      "student_id": "10000037",
+      "course_id": "PSY101-100",
+      "section": "01",
+      "semester": "Fall 2022",
+      "grade": "B",
+      "completion_status": "Completed",
+      "last_access_date": "2022-12-17"
+    },
+    {
+      "student_id": "10000037",
+      "course_id": "PSY250-200",
+      "section": "01",
+      "semester": "Spring 2024",
+      "grade": "B+",
+      "completion_status": "Completed",
+      "last_access_date": "2024-05-16"
+    },
+    {
+      "student_id": "10000037",
+      "course_id": "PSY320-300",
+      "section": "01",
+      "semester": "Spring 2025",
+      "grade": "IP",
+      "completion_status": "In Progress",
+      "last_access_date": "2025-01-23"
+    },
+    {
+      "student_id": "10000038",
+      "course_id": "ENG101-100",
+      "section": "01",
+      "semester": "Fall 2024",
+      "grade": "B-",
+      "completion_status": "Completed",
+      "last_access_date": "2024-12-15"
+    },
+    {
+      "student_id": "10000039",
+      "course_id": "CHEM101-100",
+      "section": "01",
+      "semester": "Fall 2021",
+      "grade": "A",
+      "completion_status": "Completed",
+      "last_access_date": "2021-12-19"
+    },
+    {
+      "student_id": "10000039",
+      "course_id": "CHEM201-200",
+      "section": "01",
+      "semester": "Spring 2022",
+      "grade": "A",
+      "completion_status": "Completed",
+      "last_access_date": "2022-05-18"
+    },
+    {
+      "student_id": "10000039",
+      "course_id": "CHEM301-300",
+      "section": "01",
+      "semester": "Fall 2024",
+      "grade": "A",
+      "completion_status": "Completed",
+      "last_access_date": "2024-12-20"
+    },
+    {
+      "student_id": "10000040",
+      "course_id": "MATH101-100",
+      "section": "02",
+      "semester": "Fall 2022",
+      "grade": "B",
+      "completion_status": "Completed",
+      "last_access_date": "2022-12-16"
+    },
+    {
+      "student_id": "10000041",
+      "course_id": "PSY101-100",
+      "section": "01",
+      "semester": "Fall 2023",
+      "grade": "B",
+      "completion_status": "Completed",
+      "last_access_date": "2023-12-15"
+    },
+    {
+      "student_id": "10000042",
+      "course_id": "CS101-100",
+      "section": "01",
+      "semester": "Fall 2022",
+      "grade": "A-",
+      "completion_status": "Completed",
+      "last_access_date": "2022-12-19"
+    },
+    {
+      "student_id": "10000042",
+      "course_id": "CS102-100",
+      "section": "01",
+      "semester": "Spring 2023",
+      "grade": "A",
+      "completion_status": "Completed",
+      "last_access_date": "2023-05-17"
+    },
+    {
+      "student_id": "10000042",
+      "course_id": "CS220-200",
+      "section": "01",
+      "semester": "Fall 2024",
+      "grade": "B+",
+      "completion_status": "Completed",
+      "last_access_date": "2024-12-18"
+    },
+    {
+      "student_id": "10000042",
+      "course_id": "CS350-300",
+      "section": "01",
+      "semester": "Spring 2025",
+      "grade": "IP",
+      "completion_status": "In Progress",
+      "last_access_date": "2025-01-24"
+    },
+    {
+      "student_id": "10000043",
+      "course_id": "PSY101-100",
+      "section": "02",
+      "semester": "Fall 2021",
+      "grade": "B+",
+      "completion_status": "Completed",
+      "last_access_date": "2021-12-17"
+    },
+    {
+      "student_id": "10000044",
+      "course_id": "BIO101-100",
+      "section": "01",
+      "semester": "Fall 2023",
+      "grade": "B-",
+      "completion_status": "Completed",
+      "last_access_date": "2023-12-16"
+    },
+    {
+      "student_id": "10000045",
+      "course_id": "ENG101-100",
+      "section": "01",
+      "semester": "Fall 2024",
+      "grade": "B+",
+      "completion_status": "Completed",
+      "last_access_date": "2024-12-17"
+    },
+    {
+      "student_id": "10000046",
+      "course_id": "PSY101-100",
+      "section": "01",
+      "semester": "Fall 2022",
+      "grade": "C",
+      "completion_status": "Completed",
+      "last_access_date": "2022-12-14"
+    },
+    {
+      "student_id": "10000047",
+      "course_id": "MKT201-200",
+      "section": "01",
+      "semester": "Spring 2023",
+      "grade": "B+",
+      "completion_status": "Completed",
+      "last_access_date": "2023-05-18"
+    },
+    {
+      "student_id": "10000047",
+      "course_id": "MKT310-300",
+      "section": "01",
+      "semester": "Fall 2024",
+      "grade": "A-",
+      "completion_status": "Completed",
+      "last_access_date": "2024-12-19"
+    },
+    {
+      "student_id": "10000048",
+      "course_id": "ECON101-100",
+      "section": "01",
+      "semester": "Fall 2023",
+      "grade": "B",
+      "completion_status": "Completed",
+      "last_access_date": "2023-12-15"
+    },
+    {
+      "student_id": "10000049",
+      "course_id": "ENG205-200",
+      "section": "01",
+      "semester": "Spring 2024",
+      "grade": "B",
+      "completion_status": "Completed",
+      "last_access_date": "2024-05-16"
+    },
+    {
+      "student_id": "10000050",
+      "course_id": "STAT201-200",
+      "section": "01",
+      "semester": "Spring 2023",
+      "grade": "A-",
+      "completion_status": "Completed",
+      "last_access_date": "2023-05-19"
+    },
+    {
+      "student_id": "10000050",
+      "course_id": "STAT301-300",
+      "section": "01",
+      "semester": "Fall 2024",
+      "grade": "A",
+      "completion_status": "Completed",
+      "last_access_date": "2024-12-18"
+    }
+  ]
+}
