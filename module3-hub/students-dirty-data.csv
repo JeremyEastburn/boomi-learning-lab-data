@@ -1,21 +1,36 @@
-student_id,first_name,last_name,email,major,gpa,credits_completed,enrollment_status,year_level,admission_date
-10000051,JOHN,smith,j.smith@university.edu,Computer Science,3.65,,Active,Junior,08/15/2022
-10000052,Sarah,O'Connor,,Business,5.2,45,Active,Sophomore,2023-08-15
-10000053,Mike,Johnson,mikej@university.edu,Mechanical Eng.,3.91,102,active,Senior,15-08-2021
-10000054,,Davis,student10054@university.edu,psychology,2.95,-5,Active,Sophomore,2023/08/15
-10000051,John,Smith,john.smith@university.edu,CS,3.64,75,Active,Junior,2022-08-15
-10000055,emma,Watson,EMMA.WATSON@UNIVERSITY.EDU,Biology,3.67,89,ACTIVE,junior,08-15-2022
-10000056,Robert,Lee,r.lee@univeristy.edu,,3.78,120,Active,Senior,2021-08-17
-10000057,Jennifer,martinez,j.martinez,Marketing,3.89,95,Active,senior,2021-8-17
-10000058,William,,w.thomas@university.edu,Math,3.71,58,Probation,,2022-08-16
-10000059,Lisa,Chen,lisa.chen@university.edu,Nursing,4.5,71,Active,Junior,2022-08-16
-10000060,James,white,james.white@university.edu,Political Science,2.78,999,Active,Freshman,2024-08-14
-10000061,Charlotte,Harris-Jones,charlotte@university,Computer Science,3.65,fifteen,Active,Freshman,14/08/2024
-10000062,Ben,Martin,benjamin.martin@university.edu,finance,3.48,82,Active,Junior,
-10000051,J.,Smith,johns@university.edu,Computer Sci,3.66,75,Active,Jr,2022-08-15
-10000063,Amy,Thompson,amelia.thompson@university.edu,Art History,3.77,108,Suspended,Senior,2021-08-17
-10000064,Lucas,garcia,l.garcia@university.edu,Civil Engineering,3.56,67,Active,Junior,22-08-16
-10000065,Harper,NULL,harper.m@university.edu,Sociology,-1,39,Active,Sophomore,2023-08-15
-10000066,alex,Robinson,alexander.robinson@university.edu,Physics,3.91,94,active,Senior,2021/08/17
-10000067,Evelyn,Clark,evelyn.clark@university.edu,Graphic Design,3.62,51.5,Active,Soph,2023-08-15
-10000068,Henry,rodriguez jr.,henry.rodriguez@university.edu,Economics,3.15,76.0,Active,Junior,08/16/2022
+student_id,first_name,last_name,email,major,gpa,credits_completed,enrollment_status,year_level,admission_date,address,phone
+10000051,JOHN,smith,j.smith@university.edu,Computer Science,3.65,,Active,Junior,08/15/2022,123 Main St,555-1234
+10000052,Sarah,O'Connor,,Business,5.2,45,Active,Sophomore,2023-08-15,456 Oak Ave,555-5678
+10000053,Mike,Johnson,mikej@university.edu,Mechanical Eng.,3.91,102,active,Senior,15-08-2021,789 Pine Rd,555-9012
+10000054,,Davis,student10054@university.edu,psychology,2.95,-5,Active,Sophomore,2023/08/15,321 Elm St,555-3456
+10000051,John,Smith,john.smith@university.edu,CS,3.64,75,Active,Junior,2022-08-15,123 Main Street,555-1234
+10000055,emma,Watson,EMMA.WATSON@UNIVERSITY.EDU,Biology,3.67,89,ACTIVE,junior,08-15-2022,654 Maple Dr,555-7890
+10000056,Robert,Lee,r.lee@univeristy.edu,,3.78,120,Active,Senior,2021-08-17,987 Cedar Ln,555-2345
+10000057,Jennifer,martinez,j.martinez,Marketing,3.89,95,Active,senior,2021-8-17,111 Birch Ave,(555) 234-5678
+10000058,William,,w.thomas@university.edu,Math,3.71,58,Probation,,2022-08-16,222 Spruce St,5552345
+10000059,Lisa,Chen,lisa.chen@university.edu,Nursing,4.5,71,Active,Junior,2022-08-16,333 Ash Rd,555.345.6789
+10000060,James,white,james.white@university.edu,Political Science,2.78,999,Active,Freshman,2024-08-14,444 Willow Ln,555-456-7890
+10000061,Charlotte,Harris-Jones,charlotte@university,Computer Science,3.65,fifteen,Active,Freshman,14/08/2024,555 Palm Dr,555.567.8901
+10000062,Ben,Martin,benjamin.martin@university.edu,finance,3.48,82,Active,Junior,,666 Rose St,555-6789
+10000051,J.,Smith,johns@university.edu,Computer Sci,3.66,75,Active,Jr,2022-08-15,123 Main St Apt 2,5551234
+10000063,Amy,Thompson,amelia.thompson@university.edu,Art History,3.77,108,Suspended,Senior,2021-08-17,777 Violet Ave,555-7890
+10000064,Lucas,garcia,l.garcia@university.edu,Civil Engineering,3.56,67,Active,Junior,22-08-16,888 Daisy Rd,555-8901
+10000065,Harper,NULL,harper.m@university.edu,Sociology,-1,39,Active,Sophomore,2023-08-15,999 Iris Ln,555-9012
+10000066,alex,Robinson,alexander.robinson@university.edu,Physics,3.91,94,active,Senior,2021/08/17,1010 Lily St,555-0123
+10000067,Evelyn,Clark,evelyn.clark@university.edu,Graphic Design,3.62,51.5,Active,Soph,2023-08-15,1111 Jasmine Dr,555-1234
+10000068,Henry,rodriguez jr.,henry.rodriguez@university.edu,Economics,3.15,76.0,Active,Junior,08/16/2022,1212 Orchid Ave,555-2345
+10000070,Robert,Johnson,rjohnson@university.edu,Biology,3.45,65,Active,Junior,2022-08-16,123 Main St,555-1234
+10000071,Bob,Johnson,robert.johnson@university.edu,Biology,3.45,65,Active,Junior,2022-08-16,123 Main Street,555-1234
+10000072,R.,Johnson,r.johnson@university.edu,Bio,3.45,65,Active,Jr,08/16/2022,123 Main St Apt 2,(555) 123-4000
+10000073,Jennifer,Smith,jen.smith@university.edu,Psychology,3.22,48,Active,Sophomore,2023-08-15,456 Oak Ave,555-5678
+10000074,Jenny,Smith,jennifer.smith@university.edu,Psych,3.22,48,Active,Sophomore,2023-08-15,456 Oak Avenue,5555678
+10000075,Michael,Chen,m.chen@university.edu,Computer Science,3.88,92,Active,Senior,2021-08-17,789 Pine Rd,555-9012
+10000076,Mike,Chen,michael.chen@university.edu,CS,3.88,92,Active,Senior,2021-08-17,789 Pine Road,555-9012
+10000077,Michael,Chen,mchen@university.edu,Computer Sci,3.88,92,Active,Sr,2021/08/17,789 Pine Rd Unit A,555-901-2000
+10000078,Elizabeth,Williams,liz.williams@university.edu,Marketing,3.56,73,Active,Junior,2022-08-16,321 Elm St,555-3456
+10000079,Liz,Williams,elizabeth.williams@university.edu,Marketing,3.56,73,Active,Junior,2022-08-16,321 Elm Street,555-3456
+10000080,David,Lee,david.lee@university.edu,Engineering,2.89,41,Active,Sophomore,2023-08-15,654 Maple Dr,555-7890
+10000081,Dave,Lee,d.lee@university.edu,Mechanical Engineering,2.89,41,Active,Sophomore,2023-08-15,654 Maple Drive,5557890
+10000082,Katherine,Brown,kate.brown@university.edu,Nursing,3.77,85,Active,Junior,2022-08-16,987 Cedar Ln,555-2345
+10000083,Kate,Brown,katherine.brown@university.edu,Nursing,3.77,85,Active,Junior,2022-08-16,987 Cedar Lane,555-2345
+10000084,Kathy,Brown,k.brown@university.edu,Nursing Program,3.77,85,Active,Jr,08/16/2022,987 Cedar Ln Apt B,555-234-5000
