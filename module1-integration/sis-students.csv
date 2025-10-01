@@ -24,28 +24,34 @@ student_id,first_name,last_name,email,major,gpa,credits_completed,enrollment_sta
 10000023,Elizabeth,Walker,liz.walker@university.edu,International Relations,3.41,63,Active,Junior,2022-08-16
 10000024,Michael,Hall,michael.hall@university.edu,Accounting,3.26,91,Active,Senior,2021-08-17
 10000025,Emily,Allen,emily.allen@university.edu,Environmental Science,3.79,29,Active,Freshman,2024-08-14
-10000026,Daniel,Young,daniel.young@university.edu,History,2.89,35,Warning,Sophomore,2023-08-15
+10000026,,Hernandez,d.hernandez@university.edu,History,2.89,35,Active,Sophomore,2023-08-15
 10000027,Madison,Hernandez,madison.hernandez@university.edu,Communications,3.54,87,Active,Junior,2022-08-16
 10000028,Jackson,King,jackson.king@university.edu,Mechanical Engineering,3.93,111,Active,Senior,2021-08-17
 10000029,Avery,Wright,avery.wright@university.edu,Philosophy,3.37,48,Active,Sophomore,2023-08-15
 10000030,Owen,Lopez,owen.lopez@university.edu,Computer Science,3.68,73,Active,Junior,2022-08-16
 10000031,Scarlett,Hill,scarlett.hill@university.edu,Theater,3.45,19,Active,Freshman,2024-08-14
 10000032,Jack,Scott,jack.scott@university.edu,Business Administration,3.81,99,Active,Senior,2021-08-17
-10000033,Luna,Green,luna.green@university.edu,Public Health,3.59,56,Active,Sophomore,2023-08-15
+10000033,Luna,,luna.g@university.edu,Public Health,3.59,56,Active,Sophomore,2023-08-15
 10000034,Levi,Adams,levi.adams@university.edu,Data Science,3.87,84,Active,Junior,2022-08-16
 10000035,Victoria,Baker,victoria.baker@university.edu,Journalism,3.21,42,Active,Sophomore,2023-08-15
 10000036,Wyatt,Nelson,wyatt.nelson@university.edu,Electrical Engineering,3.76,106,Active,Senior,2021-08-17
 10000037,Grace,Carter,grace.carter@university.edu,Psychology,3.63,68,Active,Junior,2022-08-16
-10000038,Matthew,Mitchell,matthew.mitchell@university.edu,Music,3.29,24,Active,Freshman,2024-08-14
+10000038,,Mitchell,m.mitchell@university.edu,Music,3.29,24,Active,Freshman,2024-08-14
 10000039,Chloe,Perez,chloe.perez@university.edu,Chemistry,3.95,115,Active,Senior,2021-08-17
 10000040,David,Roberts,david.roberts@university.edu,Architecture,3.52,61,Active,Junior,2022-08-16
 10000041,Zoey,Turner,zoey.turner@university.edu,Anthropology,3.44,38,Inactive,Sophomore,2023-08-15
 10000042,Joseph,Phillips,joseph.phillips@university.edu,Computer Science,3.83,77,Active,Junior,2022-08-16
-10000043,Aria,Campbell,aria.campbell@university.edu,Education,3.71,96,Active,Senior,2021-08-17
-10000044,Samuel,Parker,samuel.parker@university.edu,Kinesiology,3.38,52,Active,Sophomore,2023-08-15
-10000045,Layla,Evans,layla.evans@university.edu,Linguistics,3.66,14,Active,Freshman,2024-08-14
-10000046,John,Edwards,john.edwards@university.edu,Criminal Justice,2.92,85,Warning,Junior,2022-08-16
-10000047,Penelope,Collins,penny.collins@university.edu,Marketing,3.78,104,Active,Senior,2021-08-17
-10000048,Luke,Stewart,luke.stewart@university.edu,Geography,3.49,46,Active,Sophomore,2023-08-15
-10000049,Riley,Sanchez,riley.sanchez@university.edu,Film Studies,3.57,69,Active,Junior,2022-08-16
-10000050,Nora,Morris,nora.morris@university.edu,Statistics,3.86,92,Active,Senior,2021-08-17
+10000043,Robert,Johnson,robert.johnson@university.edu,Marketing,3.71,65,Active,Junior,2022-08-16
+10000044,Bob,Johnson,r.johnson@university.edu,Marketing,3.71,65,Active,Junior,2022-08-16
+10000045,Samuel,Parker,samuel.parker@university.edu,Kinesiology,3.38,52,Active,Sophomore,2023-08-15
+10000046,Layla,Evans,layla.evans@university.edu,Linguistics,3.66,14,Active,Freshman,2024-08-14
+10000047,,Edwards,edwards@university.edu,Criminal Justice,2.92,85,Warning,Junior,2022-08-16
+10000048,Penelope,Collins,penny.collins@university.edu,Marketing,3.78,104,Active,Senior,2021-08-17
+10000049,Luke,Stewart,luke.stewart@university.edu,Geography,3.49,46,Active,Sophomore,2023-08-15
+10000050,Riley,Sanchez,riley.sanchez@university.edu,Film Studies,3.57,69,Active,Junior,2022-08-16
+10000051,Nora,Morris,nora.morris@university.edu,Statistics,3.86,92,Active,Senior,2021-08-17
+10000052,Katherine,Brown,kate.brown@university.edu,Nursing,3.77,85,Active,Junior,2022-08-16
+10000053,Kate,Brown,katherine.brown@university.edu,Nursing,3.77,85,Active,Junior,2022-08-16
+10000054,Jennifer,,j.smith@university.edu,Psychology,3.22,48,Active,Sophomore,2023-08-15
+10000055,Michael,Chen,m.chen@university.edu,Computer Science,3.88,92,Active,Senior,2021-08-17
+10000056,Mike,Chen,michael.chen@university.edu,Computer Science,3.88,92,Active,Senior,2021-08-17
